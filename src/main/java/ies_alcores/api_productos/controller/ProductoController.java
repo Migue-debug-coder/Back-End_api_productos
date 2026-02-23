@@ -15,7 +15,7 @@ import java.util.List;
 @RequestMapping("/api/productos")
 public class ProductoController {
 
-    // Esto es un controlador
+    // Esto es un controlador:
 
     @Autowired
     private ProductoService productoService;
